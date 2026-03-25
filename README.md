@@ -15,7 +15,7 @@ A modern, fast, and easy-to-use desktop application for searching and managing t
 
 ## How to Use
 
-1. **Download**: Grab the latest `Lawyers Book.zip` from the [Releases](https://github.com/YOUR_USERNAME/YOUR_REPO/releases) page.
+1. **Download**: Grab the latest `Lawyers Book.zip` from the [Releases](https://github.com/samakeh/lawyers-numbers/releases) page.
 2. **Extract**: Unzip the folder to your preferred location.
 3. **Run**: Open the folder and double-click `Lawyers Book.exe`.
 
