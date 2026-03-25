@@ -26,3 +26,17 @@ analysis.json
 # OS
 Thumbs.db
 Desktop.ini
+
+# Flutter (lawyers_book_flutter)
+lawyers_book_flutter/.dart_tool/
+lawyers_book_flutter/.packages
+lawyers_book_flutter/.flutter-plugins
+lawyers_book_flutter/.flutter-plugins-dependencies
+lawyers_book_flutter/.pub/
+lawyers_book_flutter/build/
+lawyers_book_flutter/android/.gradle/
+lawyers_book_flutter/android/local.properties
+lawyers_book_flutter/ios/Flutter/ephemeral/
+lawyers_book_flutter/linux/flutter/ephemeral/
+lawyers_book_flutter/macos/Flutter/ephemeral/
+lawyers_book_flutter/windows/flutter/ephemeral/
